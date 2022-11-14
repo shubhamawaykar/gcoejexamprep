@@ -21,6 +21,7 @@ or
 
 ## contributors
 Thanks for Actively contributing this project ....
+<br>
 <a href="https://github.com/shubhamAW/gcoejexamprep/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=shubhamAW/gcoejexamprep" />
 </a>
